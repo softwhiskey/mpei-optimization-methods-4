@@ -1,0 +1,10 @@
+E:\repository\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\repository\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\repository\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\repository\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+E:\repository\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\repository\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+E:\repository\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\repository\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+E:\repository\ConsoleApp2\bin\Debug\Microsoft.Solver.Foundation.dll
+E:\repository\ConsoleApp2\bin\Debug\Microsoft.Solver.Foundation.xml
